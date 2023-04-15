@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1642760203 source:c:\users\saska\onedrive\desktop\saska\saska\dat_operacije.c
+	"dat_operacije.h"
+
+1642718418 c:\users\saska\onedrive\desktop\saska\saska\dat_operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"strukture_.h"
+
+1642760228 c:\users\saska\onedrive\desktop\saska\saska\strukture_.h
+
+1642760771 source:c:\users\saska\onedrive\desktop\saska\saska\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dat_operacije.h"
+
+1642760203 source:c:\users\saska\onedrive\desktop\z4_pr_g5_146_2019_saska_tepsa\saska\saska\dat_operacije.c
+	"dat_operacije.h"
+
+1642718418 c:\users\saska\onedrive\desktop\z4_pr_g5_146_2019_saska_tepsa\saska\saska\dat_operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"strukture_.h"
+
+1642760228 c:\users\saska\onedrive\desktop\z4_pr_g5_146_2019_saska_tepsa\saska\saska\strukture_.h
+
+1642760771 source:c:\users\saska\onedrive\desktop\z4_pr_g5_146_2019_saska_tepsa\saska\saska\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dat_operacije.h"
+
